@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AkanshBhaiya/static/css/main.aa84a3df.chunk.css",
-    "main.js": "/AkanshBhaiya/static/js/main.a555c048.chunk.js",
-    "main.js.map": "/AkanshBhaiya/static/js/main.a555c048.chunk.js.map",
+    "main.js": "/AkanshBhaiya/static/js/main.6ae74079.chunk.js",
+    "main.js.map": "/AkanshBhaiya/static/js/main.6ae74079.chunk.js.map",
     "runtime-main.js": "/AkanshBhaiya/static/js/runtime-main.c1eca5f5.js",
     "runtime-main.js.map": "/AkanshBhaiya/static/js/runtime-main.c1eca5f5.js.map",
     "static/css/2.b5e95640.chunk.css": "/AkanshBhaiya/static/css/2.b5e95640.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.a3d78a18.chunk.js": "/AkanshBhaiya/static/js/3.a3d78a18.chunk.js",
     "static/js/3.a3d78a18.chunk.js.map": "/AkanshBhaiya/static/js/3.a3d78a18.chunk.js.map",
     "index.html": "/AkanshBhaiya/index.html",
-    "precache-manifest.abdbc4845941cfbdb85f15a69051a541.js": "/AkanshBhaiya/precache-manifest.abdbc4845941cfbdb85f15a69051a541.js",
+    "precache-manifest.6c48cbdea0e29f0790d41c311820f1ac.js": "/AkanshBhaiya/precache-manifest.6c48cbdea0e29f0790d41c311820f1ac.js",
     "service-worker.js": "/AkanshBhaiya/service-worker.js",
     "static/css/2.b5e95640.chunk.css.map": "/AkanshBhaiya/static/css/2.b5e95640.chunk.css.map",
     "static/css/main.aa84a3df.chunk.css.map": "/AkanshBhaiya/static/css/main.aa84a3df.chunk.css.map",
@@ -60,6 +60,6 @@
     "static/css/2.b5e95640.chunk.css",
     "static/js/2.26eb51f3.chunk.js",
     "static/css/main.aa84a3df.chunk.css",
-    "static/js/main.a555c048.chunk.js"
+    "static/js/main.6ae74079.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2494cfd1ba54981dbccceeaf7468a43f",
+    "revision": "b839ab3218f45fdf8bc2e08b2121e549",
     "url": "/AkanshBhaiya/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AkanshBhaiya/static/css/2.b5e95640.chunk.css"
   },
   {
-    "revision": "e6e682f82e512552872a",
+    "revision": "074b701fda84dadba297",
     "url": "/AkanshBhaiya/static/css/main.aa84a3df.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AkanshBhaiya/static/js/3.a3d78a18.chunk.js"
   },
   {
-    "revision": "e6e682f82e512552872a",
-    "url": "/AkanshBhaiya/static/js/main.a555c048.chunk.js"
+    "revision": "074b701fda84dadba297",
+    "url": "/AkanshBhaiya/static/js/main.6ae74079.chunk.js"
   },
   {
     "revision": "06e9a8a5144c6899060c",
