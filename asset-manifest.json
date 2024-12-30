@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/AkanshBhaiya/static/css/main.aa84a3df.chunk.css",
-    "main.js": "/AkanshBhaiya/static/js/main.ec4bb7f4.chunk.js",
-    "main.js.map": "/AkanshBhaiya/static/js/main.ec4bb7f4.chunk.js.map",
-    "runtime-main.js": "/AkanshBhaiya/static/js/runtime-main.769548b8.js",
-    "runtime-main.js.map": "/AkanshBhaiya/static/js/runtime-main.769548b8.js.map",
+    "main.js": "/AkanshBhaiya/static/js/main.a555c048.chunk.js",
+    "main.js.map": "/AkanshBhaiya/static/js/main.a555c048.chunk.js.map",
+    "runtime-main.js": "/AkanshBhaiya/static/js/runtime-main.c1eca5f5.js",
+    "runtime-main.js.map": "/AkanshBhaiya/static/js/runtime-main.c1eca5f5.js.map",
     "static/css/2.b5e95640.chunk.css": "/AkanshBhaiya/static/css/2.b5e95640.chunk.css",
-    "static/js/2.a52fccd2.chunk.js": "/AkanshBhaiya/static/js/2.a52fccd2.chunk.js",
-    "static/js/2.a52fccd2.chunk.js.map": "/AkanshBhaiya/static/js/2.a52fccd2.chunk.js.map",
-    "static/js/3.11dcac9b.chunk.js": "/AkanshBhaiya/static/js/3.11dcac9b.chunk.js",
-    "static/js/3.11dcac9b.chunk.js.map": "/AkanshBhaiya/static/js/3.11dcac9b.chunk.js.map",
+    "static/js/2.26eb51f3.chunk.js": "/AkanshBhaiya/static/js/2.26eb51f3.chunk.js",
+    "static/js/2.26eb51f3.chunk.js.map": "/AkanshBhaiya/static/js/2.26eb51f3.chunk.js.map",
+    "static/js/3.a3d78a18.chunk.js": "/AkanshBhaiya/static/js/3.a3d78a18.chunk.js",
+    "static/js/3.a3d78a18.chunk.js.map": "/AkanshBhaiya/static/js/3.a3d78a18.chunk.js.map",
     "index.html": "/AkanshBhaiya/index.html",
-    "precache-manifest.e36460691074e3d84c9df21acf9d3996.js": "/AkanshBhaiya/precache-manifest.e36460691074e3d84c9df21acf9d3996.js",
+    "precache-manifest.abdbc4845941cfbdb85f15a69051a541.js": "/AkanshBhaiya/precache-manifest.abdbc4845941cfbdb85f15a69051a541.js",
     "service-worker.js": "/AkanshBhaiya/service-worker.js",
     "static/css/2.b5e95640.chunk.css.map": "/AkanshBhaiya/static/css/2.b5e95640.chunk.css.map",
     "static/css/main.aa84a3df.chunk.css.map": "/AkanshBhaiya/static/css/main.aa84a3df.chunk.css.map",
-    "static/js/2.a52fccd2.chunk.js.LICENSE.txt": "/AkanshBhaiya/static/js/2.a52fccd2.chunk.js.LICENSE.txt",
+    "static/js/2.26eb51f3.chunk.js.LICENSE.txt": "/AkanshBhaiya/static/js/2.26eb51f3.chunk.js.LICENSE.txt",
     "static/media/ChemdrawIcon.jpg": "/AkanshBhaiya/static/media/ChemdrawIcon.a0d566a7.jpg",
     "static/media/Gojob.jpeg": "/AkanshBhaiya/static/media/Gojob.b006f0f3.jpeg",
     "static/media/RegulatorySubmissionIcon.jpg": "/AkanshBhaiya/static/media/RegulatorySubmissionIcon.48cd80e3.jpg",
@@ -56,10 +56,10 @@
     "static/media/wProject.png": "/AkanshBhaiya/static/media/wProject.c3989d77.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.769548b8.js",
+    "static/js/runtime-main.c1eca5f5.js",
     "static/css/2.b5e95640.chunk.css",
-    "static/js/2.a52fccd2.chunk.js",
+    "static/js/2.26eb51f3.chunk.js",
     "static/css/main.aa84a3df.chunk.css",
-    "static/js/main.ec4bb7f4.chunk.js"
+    "static/js/main.a555c048.chunk.js"
   ]
 }
